@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/jbrkr000.github.io/static/css/main.f855e6bc.css",
-    "main.js": "/jbrkr000.github.io/static/js/main.2d86daf8.js",
+    "main.js": "/jbrkr000.github.io/static/js/main.5311c75b.js",
     "static/js/453.8d452fa9.chunk.js": "/jbrkr000.github.io/static/js/453.8d452fa9.chunk.js",
-    "static/media/logo.svg": "/jbrkr000.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/logo.svg": "/jbrkr000.github.io/static/media/logo.0deaa10122ebd8b25c797e3378e5cd99.svg",
     "index.html": "/jbrkr000.github.io/index.html",
     "main.f855e6bc.css.map": "/jbrkr000.github.io/static/css/main.f855e6bc.css.map",
-    "main.2d86daf8.js.map": "/jbrkr000.github.io/static/js/main.2d86daf8.js.map",
+    "main.5311c75b.js.map": "/jbrkr000.github.io/static/js/main.5311c75b.js.map",
     "453.8d452fa9.chunk.js.map": "/jbrkr000.github.io/static/js/453.8d452fa9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.2d86daf8.js"
+    "static/js/main.5311c75b.js"
   ]
 }
